@@ -2,7 +2,6 @@
 
 - 💻 Skills **Back-end Development, Front-end Development**
 - 🌱 I'm currently improving my backend skills
-- 🔭 I’m currently looking for a job
   
   <br>
   <div align="center">
